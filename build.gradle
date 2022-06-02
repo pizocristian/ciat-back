@@ -33,7 +33,7 @@ tasks.named('test') {
 }
 
 flyway {
-	url = "jdbc:mysql://ciatdb.cs8q5fmcuzns.us-east-1.rds.amazonaws.com:3306/zonascoco"
+	url = "jdbc:mysql://databaseciat.cs8q5fmcuzns.us-east-1.rds.amazonaws.com:3306/zonascoco"
 	user = "root"
 	password = "dragonazul123"
 }
